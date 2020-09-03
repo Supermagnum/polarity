@@ -2,7 +2,7 @@ G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.1.6-c6e7f7d~87~ubuntu20.04.1*
 G04 #@! TF.CreationDate,2020-09-03T11:24:11+02:00*
 G04 #@! TF.ProjectId,reverse-polarity,72657665-7273-4652-9d70-6f6c61726974,rev?*
 G04 #@! TF.SameCoordinates,Original*
-G04 #@! TF.FileFunction,Paste,Bot*
+G04 #@! TF.FileFunction,Glue,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX45Y45*%
 G04 Gerber Fmt 4.5, Leading zero omitted, Abs format (unit mm)*
@@ -15,7 +15,6 @@ G04 APERTURE LIST*
 %ADD11C,0.150000*%
 %ADD12C,0.300000*%
 %ADD13C,0.400000*%
-%ADD14C,13.000000*%
 G04 APERTURE END LIST*
 D10*
 D11*
@@ -1548,6 +1547,4 @@ D10*
 D11*
 X26100220Y-19150720D02*
 X26100220Y-19800720D01*
-D14*
-X9450000Y-5250000D03*
 M02*
