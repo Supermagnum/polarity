@@ -7,3 +7,6 @@ It has two11mm solder pads,the one on the DC protected side can be soldered to t
 There is also a DC- or ground connection solder connection or a outer circular connection that is suitable for a snap ring or compression connection, 
 I suggest a AVG 15 (1.45 mm diameter ) flexible wire for a solder connetion. 
 The DC+ unprotected side goes to the batteries. It is possible to solder a spring there if needed.
+
+The PCB is here:
+https://oshpark.com/shared_projects/WsPtYNPE
