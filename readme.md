@@ -10,3 +10,8 @@ The DC+ unprotected side goes to the batteries. It is possible to solder a sprin
 
 The PCB is here:
 https://oshpark.com/shared_projects/WsPtYNPE
+
+PCB + part:
+
+https://aisler.net/p/LPKPSYXG
+
